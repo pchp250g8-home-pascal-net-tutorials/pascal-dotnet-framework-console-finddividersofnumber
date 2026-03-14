@@ -1,4 +1,4 @@
-FindDividersOfNumber. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Simple Input/Output. Console Application. 
+FindDividersOfNumber. Pascal Tutorials. Platform DotNet FrameWork. Algorithms. Simple Input/Output. Console Application.
 A console application in the Pascal programming language. 
 The program does the following:
   1. Asks the user to enter a positive integer.
